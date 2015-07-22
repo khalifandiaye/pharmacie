@@ -1,0 +1,1 @@
+Suite du développement de l'application pharmacie de biotrial dans le cadre du projet de M1 MIAGE.
